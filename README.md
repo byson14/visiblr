@@ -1,8 +1,8 @@
 # visiblr
 
-A new Flutter project.
-
+Visiblr is a mobile application that provides users with a platform to share and discover content. The application is built using Flutter, a popular open-source UI toolkit for building beautiful, multi-platform applications.
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
